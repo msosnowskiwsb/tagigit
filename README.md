@@ -4,8 +4,9 @@ Opis uruchomienia projektu
 
 punkt 1
 
+punkt 1.2
+
 punkt 2
 
-punkt 3
 
-punkt 4
+punkt 4.0
